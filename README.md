@@ -316,5 +316,6 @@ Revise si hay tramos cerrados con **Simular cierre de vías**. Use **Reabrir tra
 - **Aplicativo:** licencia MIT (ver [`LICENSE`](LICENSE)).
 - **Referencias:**
   - Dijkstra, E. W. (1959). *A note on two problems in connexion with graphs*. Numerische Mathematik, 1, 269-271.
+  - Veritasium. (2026, 30 mayo). Google Maps is unreasonably fast. Let me explain [Vídeo]. YouTube. https://www.youtube.com/watch?v=kS-CGkiPetQ
   - Hart, P. E., Nilsson, N. J. y Raphael, B. (1968). *A formal basis for the heuristic determination of minimum cost paths*. IEEE Transactions on Systems Science and Cybernetics, 4(2), 100-107.
 - El logo de la Universidad Autónoma de Occidente se usa solo para identificar el contexto académico del proyecto.
